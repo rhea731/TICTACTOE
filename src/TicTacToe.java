@@ -1,6 +1,5 @@
 package net;
 
-
 //A simple program to demonstrate 
 //Tic-Tac-Toe Game.
 import java.util.*;
